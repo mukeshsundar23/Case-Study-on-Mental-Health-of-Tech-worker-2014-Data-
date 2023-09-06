@@ -59,7 +59,7 @@ To access the full report and explore the visualizations, follow these steps:
    git clone https://github.com/mukeshsundar23/Case-Study-on-Mental-Health-of-Tech-workers-2014-Data.git
 Open the Power BI project file (.pbix) in Power BI Desktop to interact with the visualizations.
 
-Review the insights and recommendations provided in the report to gain a deeper understanding of the findings ![Report Document](https://rb.gy/zn41g).
+Review the insights and recommendations provided in the report to gain a deeper understanding of the findings [Report Document](https://rb.gy/zn41g).
 
 ## Contributing
 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests to enhance this project. For major changes, please open an issue first to discuss your ideas.
