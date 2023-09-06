@@ -1,4 +1,4 @@
-# Healthcare Analytics with Power BI
+# Case Study on Mental Health of Tech workers (2014 Data)
 
 ![Page 1](project_image1.png) 
 ![Page 2](project_image2.png) 
@@ -56,7 +56,7 @@ To access the full report and explore the visualizations, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/healthcare-analytics.git
+   git clone https://github.com/mukeshsundar23/Case-Study-on-Mental-Health-of-Tech-workers-2014-Data.git
 Open the Power BI project file (.pbix) in Power BI Desktop to interact with the visualizations.
 
 Review the insights and recommendations provided in the report to gain a deeper understanding of the findings.
