@@ -1,9 +1,10 @@
 # Case Study on Mental Health of Tech workers (2014 Data)
 
-![Page 1](Project_image1.png) 
-![Page 2](Project_image2.png) 
 
 Explore the intersection of mental health and the tech industry through data-driven insights in this Power BI project. This repository contains the analysis, visualizations, and findings from the comprehensive survey conducted in 2014 within the tech sector.
+
+![Page 1](Project_image1.png) 
+![Page 2](Project_image2.png) 
 
 ## Table of Contents
 
